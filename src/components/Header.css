@@ -1,0 +1,9 @@
+.headers-img{
+  width: 7rem;
+}
+
+nav{
+  box-shadow: 0px 5px 5px 0px rgba(255,255,255,0.69);
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(255,255,255,0.69);
+  -moz-box-shadow: 0px 5px 5px 0px rgba(255,255,255,0.69);
+}
